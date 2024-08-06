@@ -1,0 +1,44 @@
+Education and training statistics for the UK
+2023 Reporting year
+
+Description
+
+This document describes the contents of the underlying data files accompanying the ‘education and training’ statistics publication. There is a Methodology document that is linked under ‘Useful information’ at the top of the release, that contains further information on the statistics published here.
+
+Coverage
+
+This release compiles information on education systems across the United Kingdom.
+
+File formats and conventions
+
+Symbols used in the underlying data are as follows:
+
+- ‘z’ when an observation is not applicable
+- ‘x’ when data is unavailable for other reasons
+- ‘c’ confidential data
+- ‘low’ rounds to 0, but is not 0
+
+Data files
+
+Further education students
+
+Filename: uk_post_compulsory_education_fe_students.csv
+Geographic levels: National
+Time period: 2015/16 to 2021/22
+Content summary: This file contains information on the number of further education students in the UK, by sex, age and mode of study.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name  |  Variable description
+-------------  |  ---------------------
+age            |  Age
+gender         |  Gender
+mode_of_study  |  Mode of study
+t_students     |  Number of FE students
+
+Footnotes:
+
+1. Totals include further education students at further education colleges or higher education providers.
+2. In England, student numbers by mode of study (e.g. full-time, part-time, work-based learning) are unavailable.
+3. Totals includes those whose gender identity is other or unclassified.
+4. Figures are rounded to the nearest 5 and 'low' indicates a base value of fewer than 2.5. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.

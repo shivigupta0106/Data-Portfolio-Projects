@@ -1,0 +1,955 @@
+time_period,time_identifier,geographic_level,country_code,country_name,gender,age,mode_of_study,t_students
+202122,Academic year,National,N92000002,Northern Ireland,Female,<16,Full-time,low
+202122,Academic year,National,N92000002,Northern Ireland,Female,<16,Part-time,955
+202122,Academic year,National,N92000002,Northern Ireland,Female,16,Full-time,1700
+202122,Academic year,National,N92000002,Northern Ireland,Female,16,Part-time,720
+202122,Academic year,National,N92000002,Northern Ireland,Female,17,Full-time,1610
+202122,Academic year,National,N92000002,Northern Ireland,Female,17,Part-time,635
+202122,Academic year,National,N92000002,Northern Ireland,Female,18,Full-time,1185
+202122,Academic year,National,N92000002,Northern Ireland,Female,18,Part-time,455
+202122,Academic year,National,N92000002,Northern Ireland,Female,19,Full-time,655
+202122,Academic year,National,N92000002,Northern Ireland,Female,19,Part-time,335
+202122,Academic year,National,N92000002,Northern Ireland,Female,20,Full-time,340
+202122,Academic year,National,N92000002,Northern Ireland,Female,20,Part-time,275
+202122,Academic year,National,N92000002,Northern Ireland,Female,21,Full-time,225
+202122,Academic year,National,N92000002,Northern Ireland,Female,21,Part-time,285
+202122,Academic year,National,N92000002,Northern Ireland,Female,22,Full-time,175
+202122,Academic year,National,N92000002,Northern Ireland,Female,22,Part-time,370
+202122,Academic year,National,N92000002,Northern Ireland,Female,23,Full-time,165
+202122,Academic year,National,N92000002,Northern Ireland,Female,23,Part-time,310
+202122,Academic year,National,N92000002,Northern Ireland,Female,24,Full-time,110
+202122,Academic year,National,N92000002,Northern Ireland,Female,24,Part-time,290
+202122,Academic year,National,N92000002,Northern Ireland,Female,25,Full-time,65
+202122,Academic year,National,N92000002,Northern Ireland,Female,25,Part-time,275
+202122,Academic year,National,N92000002,Northern Ireland,Female,26,Full-time,55
+202122,Academic year,National,N92000002,Northern Ireland,Female,26,Part-time,310
+202122,Academic year,National,N92000002,Northern Ireland,Female,27,Full-time,45
+202122,Academic year,National,N92000002,Northern Ireland,Female,27,Part-time,320
+202122,Academic year,National,N92000002,Northern Ireland,Female,28,Full-time,40
+202122,Academic year,National,N92000002,Northern Ireland,Female,28,Part-time,320
+202122,Academic year,National,N92000002,Northern Ireland,Female,29,Full-time,50
+202122,Academic year,National,N92000002,Northern Ireland,Female,29,Part-time,325
+202122,Academic year,National,N92000002,Northern Ireland,Female,30+,Full-time,485
+202122,Academic year,National,N92000002,Northern Ireland,Female,30+,Part-time,7120
+202122,Academic year,National,N92000002,Northern Ireland,Female,Total,Full-time,6910
+202122,Academic year,National,N92000002,Northern Ireland,Female,Total,Part-time,13305
+202122,Academic year,National,N92000002,Northern Ireland,Female,Unknown,Full-time,0
+202122,Academic year,National,N92000002,Northern Ireland,Female,Unknown,Part-time,5
+202122,Academic year,National,N92000002,Northern Ireland,Male,<16,Full-time,5
+202122,Academic year,National,N92000002,Northern Ireland,Male,<16,Part-time,1765
+202122,Academic year,National,N92000002,Northern Ireland,Male,16,Full-time,2750
+202122,Academic year,National,N92000002,Northern Ireland,Male,16,Part-time,925
+202122,Academic year,National,N92000002,Northern Ireland,Male,17,Full-time,2755
+202122,Academic year,National,N92000002,Northern Ireland,Male,17,Part-time,840
+202122,Academic year,National,N92000002,Northern Ireland,Male,18,Full-time,1870
+202122,Academic year,National,N92000002,Northern Ireland,Male,18,Part-time,600
+202122,Academic year,National,N92000002,Northern Ireland,Male,19,Full-time,1235
+202122,Academic year,National,N92000002,Northern Ireland,Male,19,Part-time,525
+202122,Academic year,National,N92000002,Northern Ireland,Male,20,Full-time,795
+202122,Academic year,National,N92000002,Northern Ireland,Male,20,Part-time,400
+202122,Academic year,National,N92000002,Northern Ireland,Male,21,Full-time,510
+202122,Academic year,National,N92000002,Northern Ireland,Male,21,Part-time,310
+202122,Academic year,National,N92000002,Northern Ireland,Male,22,Full-time,360
+202122,Academic year,National,N92000002,Northern Ireland,Male,22,Part-time,300
+202122,Academic year,National,N92000002,Northern Ireland,Male,23,Full-time,260
+202122,Academic year,National,N92000002,Northern Ireland,Male,23,Part-time,250
+202122,Academic year,National,N92000002,Northern Ireland,Male,24,Full-time,195
+202122,Academic year,National,N92000002,Northern Ireland,Male,24,Part-time,240
+202122,Academic year,National,N92000002,Northern Ireland,Male,25,Full-time,115
+202122,Academic year,National,N92000002,Northern Ireland,Male,25,Part-time,275
+202122,Academic year,National,N92000002,Northern Ireland,Male,26,Full-time,80
+202122,Academic year,National,N92000002,Northern Ireland,Male,26,Part-time,210
+202122,Academic year,National,N92000002,Northern Ireland,Male,27,Full-time,55
+202122,Academic year,National,N92000002,Northern Ireland,Male,27,Part-time,200
+202122,Academic year,National,N92000002,Northern Ireland,Male,28,Full-time,60
+202122,Academic year,National,N92000002,Northern Ireland,Male,28,Part-time,200
+202122,Academic year,National,N92000002,Northern Ireland,Male,29,Full-time,55
+202122,Academic year,National,N92000002,Northern Ireland,Male,29,Part-time,205
+202122,Academic year,National,N92000002,Northern Ireland,Male,30+,Full-time,290
+202122,Academic year,National,N92000002,Northern Ireland,Male,30+,Part-time,3730
+202122,Academic year,National,N92000002,Northern Ireland,Male,Total,Full-time,11380
+202122,Academic year,National,N92000002,Northern Ireland,Male,Total,Part-time,10975
+202122,Academic year,National,N92000002,Northern Ireland,Male,Unknown,Full-time,0
+202122,Academic year,National,N92000002,Northern Ireland,Male,Unknown,Part-time,0
+202122,Academic year,National,N92000002,Northern Ireland,Total,<16,Full-time,5
+202122,Academic year,National,N92000002,Northern Ireland,Total,<16,Part-time,2720
+202122,Academic year,National,N92000002,Northern Ireland,Total,16,Full-time,4455
+202122,Academic year,National,N92000002,Northern Ireland,Total,16,Part-time,1640
+202122,Academic year,National,N92000002,Northern Ireland,Total,17,Full-time,4365
+202122,Academic year,National,N92000002,Northern Ireland,Total,17,Part-time,1475
+202122,Academic year,National,N92000002,Northern Ireland,Total,18,Full-time,3055
+202122,Academic year,National,N92000002,Northern Ireland,Total,18,Part-time,1055
+202122,Academic year,National,N92000002,Northern Ireland,Total,19,Full-time,1890
+202122,Academic year,National,N92000002,Northern Ireland,Total,19,Part-time,860
+202122,Academic year,National,N92000002,Northern Ireland,Total,20,Full-time,1135
+202122,Academic year,National,N92000002,Northern Ireland,Total,20,Part-time,675
+202122,Academic year,National,N92000002,Northern Ireland,Total,21,Full-time,730
+202122,Academic year,National,N92000002,Northern Ireland,Total,21,Part-time,595
+202122,Academic year,National,N92000002,Northern Ireland,Total,22,Full-time,535
+202122,Academic year,National,N92000002,Northern Ireland,Total,22,Part-time,665
+202122,Academic year,National,N92000002,Northern Ireland,Total,23,Full-time,425
+202122,Academic year,National,N92000002,Northern Ireland,Total,23,Part-time,560
+202122,Academic year,National,N92000002,Northern Ireland,Total,24,Full-time,310
+202122,Academic year,National,N92000002,Northern Ireland,Total,24,Part-time,535
+202122,Academic year,National,N92000002,Northern Ireland,Total,25,Full-time,180
+202122,Academic year,National,N92000002,Northern Ireland,Total,25,Part-time,550
+202122,Academic year,National,N92000002,Northern Ireland,Total,26,Full-time,135
+202122,Academic year,National,N92000002,Northern Ireland,Total,26,Part-time,520
+202122,Academic year,National,N92000002,Northern Ireland,Total,27,Full-time,100
+202122,Academic year,National,N92000002,Northern Ireland,Total,27,Part-time,520
+202122,Academic year,National,N92000002,Northern Ireland,Total,28,Full-time,100
+202122,Academic year,National,N92000002,Northern Ireland,Total,28,Part-time,525
+202122,Academic year,National,N92000002,Northern Ireland,Total,29,Full-time,100
+202122,Academic year,National,N92000002,Northern Ireland,Total,29,Part-time,530
+202122,Academic year,National,N92000002,Northern Ireland,Total,30+,Full-time,770
+202122,Academic year,National,N92000002,Northern Ireland,Total,30+,Part-time,10850
+202122,Academic year,National,N92000002,Northern Ireland,Total,Total,Full-time,18290
+202122,Academic year,National,N92000002,Northern Ireland,Total,Total,Part-time,24280
+202122,Academic year,National,N92000002,Northern Ireland,Total,Unknown,Full-time,0
+202122,Academic year,National,N92000002,Northern Ireland,Total,Unknown,Part-time,5
+202122,Academic year,National,S92000003,Scotland,Female,<16,Full-time,595
+202122,Academic year,National,S92000003,Scotland,Female,<16,Part-time,23270
+202122,Academic year,National,S92000003,Scotland,Female,<16,Work-based learning,1115
+202122,Academic year,National,S92000003,Scotland,Female,16,Full-time,2035
+202122,Academic year,National,S92000003,Scotland,Female,16,Part-time,6525
+202122,Academic year,National,S92000003,Scotland,Female,16,Work-based learning,855
+202122,Academic year,National,S92000003,Scotland,Female,17,Full-time,2950
+202122,Academic year,National,S92000003,Scotland,Female,17,Part-time,4855
+202122,Academic year,National,S92000003,Scotland,Female,17,Work-based learning,1245
+202122,Academic year,National,S92000003,Scotland,Female,18,Full-time,2460
+202122,Academic year,National,S92000003,Scotland,Female,18,Part-time,2310
+202122,Academic year,National,S92000003,Scotland,Female,18,Work-based learning,1415
+202122,Academic year,National,S92000003,Scotland,Female,19,Full-time,1425
+202122,Academic year,National,S92000003,Scotland,Female,19,Part-time,1715
+202122,Academic year,National,S92000003,Scotland,Female,19,Work-based learning,1455
+202122,Academic year,National,S92000003,Scotland,Female,20,Full-time,965
+202122,Academic year,National,S92000003,Scotland,Female,20,Part-time,1150
+202122,Academic year,National,S92000003,Scotland,Female,20,Work-based learning,1185
+202122,Academic year,National,S92000003,Scotland,Female,21,Full-time,710
+202122,Academic year,National,S92000003,Scotland,Female,21,Part-time,935
+202122,Academic year,National,S92000003,Scotland,Female,21,Work-based learning,1195
+202122,Academic year,National,S92000003,Scotland,Female,22,Full-time,580
+202122,Academic year,National,S92000003,Scotland,Female,22,Part-time,765
+202122,Academic year,National,S92000003,Scotland,Female,22,Work-based learning,1300
+202122,Academic year,National,S92000003,Scotland,Female,23,Full-time,525
+202122,Academic year,National,S92000003,Scotland,Female,23,Part-time,740
+202122,Academic year,National,S92000003,Scotland,Female,23,Work-based learning,1290
+202122,Academic year,National,S92000003,Scotland,Female,24,Full-time,505
+202122,Academic year,National,S92000003,Scotland,Female,24,Part-time,750
+202122,Academic year,National,S92000003,Scotland,Female,24,Work-based learning,1425
+202122,Academic year,National,S92000003,Scotland,Female,25,Full-time,420
+202122,Academic year,National,S92000003,Scotland,Female,25,Part-time,680
+202122,Academic year,National,S92000003,Scotland,Female,25,Work-based learning,1335
+202122,Academic year,National,S92000003,Scotland,Female,26,Full-time,420
+202122,Academic year,National,S92000003,Scotland,Female,26,Part-time,740
+202122,Academic year,National,S92000003,Scotland,Female,26,Work-based learning,1410
+202122,Academic year,National,S92000003,Scotland,Female,27,Full-time,400
+202122,Academic year,National,S92000003,Scotland,Female,27,Part-time,660
+202122,Academic year,National,S92000003,Scotland,Female,27,Work-based learning,1390
+202122,Academic year,National,S92000003,Scotland,Female,28,Full-time,400
+202122,Academic year,National,S92000003,Scotland,Female,28,Part-time,685
+202122,Academic year,National,S92000003,Scotland,Female,28,Work-based learning,1360
+202122,Academic year,National,S92000003,Scotland,Female,29,Full-time,385
+202122,Academic year,National,S92000003,Scotland,Female,29,Part-time,780
+202122,Academic year,National,S92000003,Scotland,Female,29,Work-based learning,1390
+202122,Academic year,National,S92000003,Scotland,Female,30+,Full-time,4430
+202122,Academic year,National,S92000003,Scotland,Female,30+,Part-time,13410
+202122,Academic year,National,S92000003,Scotland,Female,30+,Work-based learning,37565
+202122,Academic year,National,S92000003,Scotland,Female,Total,Full-time,19205
+202122,Academic year,National,S92000003,Scotland,Female,Total,Part-time,59960
+202122,Academic year,National,S92000003,Scotland,Female,Total,Work-based learning,56930
+202122,Academic year,National,S92000003,Scotland,Female,Unknown,Full-time,0
+202122,Academic year,National,S92000003,Scotland,Female,Unknown,Part-time,0
+202122,Academic year,National,S92000003,Scotland,Female,Unknown,Work-based learning,0
+202122,Academic year,National,S92000003,Scotland,Male,<16,Full-time,660
+202122,Academic year,National,S92000003,Scotland,Male,<16,Part-time,22055
+202122,Academic year,National,S92000003,Scotland,Male,<16,Work-based learning,1265
+202122,Academic year,National,S92000003,Scotland,Male,16,Full-time,2255
+202122,Academic year,National,S92000003,Scotland,Male,16,Part-time,5740
+202122,Academic year,National,S92000003,Scotland,Male,16,Work-based learning,1885
+202122,Academic year,National,S92000003,Scotland,Male,17,Full-time,3055
+202122,Academic year,National,S92000003,Scotland,Male,17,Part-time,4600
+202122,Academic year,National,S92000003,Scotland,Male,17,Work-based learning,3540
+202122,Academic year,National,S92000003,Scotland,Male,18,Full-time,2785
+202122,Academic year,National,S92000003,Scotland,Male,18,Part-time,2460
+202122,Academic year,National,S92000003,Scotland,Male,18,Work-based learning,4565
+202122,Academic year,National,S92000003,Scotland,Male,19,Full-time,1645
+202122,Academic year,National,S92000003,Scotland,Male,19,Part-time,1645
+202122,Academic year,National,S92000003,Scotland,Male,19,Work-based learning,4690
+202122,Academic year,National,S92000003,Scotland,Male,20,Full-time,965
+202122,Academic year,National,S92000003,Scotland,Male,20,Part-time,1175
+202122,Academic year,National,S92000003,Scotland,Male,20,Work-based learning,3910
+202122,Academic year,National,S92000003,Scotland,Male,21,Full-time,625
+202122,Academic year,National,S92000003,Scotland,Male,21,Part-time,865
+202122,Academic year,National,S92000003,Scotland,Male,21,Work-based learning,3185
+202122,Academic year,National,S92000003,Scotland,Male,22,Full-time,440
+202122,Academic year,National,S92000003,Scotland,Male,22,Part-time,710
+202122,Academic year,National,S92000003,Scotland,Male,22,Work-based learning,2540
+202122,Academic year,National,S92000003,Scotland,Male,23,Full-time,375
+202122,Academic year,National,S92000003,Scotland,Male,23,Part-time,585
+202122,Academic year,National,S92000003,Scotland,Male,23,Work-based learning,2045
+202122,Academic year,National,S92000003,Scotland,Male,24,Full-time,320
+202122,Academic year,National,S92000003,Scotland,Male,24,Part-time,495
+202122,Academic year,National,S92000003,Scotland,Male,24,Work-based learning,1805
+202122,Academic year,National,S92000003,Scotland,Male,25,Full-time,260
+202122,Academic year,National,S92000003,Scotland,Male,25,Part-time,430
+202122,Academic year,National,S92000003,Scotland,Male,25,Work-based learning,1475
+202122,Academic year,National,S92000003,Scotland,Male,26,Full-time,215
+202122,Academic year,National,S92000003,Scotland,Male,26,Part-time,425
+202122,Academic year,National,S92000003,Scotland,Male,26,Work-based learning,1520
+202122,Academic year,National,S92000003,Scotland,Male,27,Full-time,185
+202122,Academic year,National,S92000003,Scotland,Male,27,Part-time,395
+202122,Academic year,National,S92000003,Scotland,Male,27,Work-based learning,1350
+202122,Academic year,National,S92000003,Scotland,Male,28,Full-time,185
+202122,Academic year,National,S92000003,Scotland,Male,28,Part-time,375
+202122,Academic year,National,S92000003,Scotland,Male,28,Work-based learning,1345
+202122,Academic year,National,S92000003,Scotland,Male,29,Full-time,165
+202122,Academic year,National,S92000003,Scotland,Male,29,Part-time,360
+202122,Academic year,National,S92000003,Scotland,Male,29,Work-based learning,1325
+202122,Academic year,National,S92000003,Scotland,Male,30+,Full-time,1565
+202122,Academic year,National,S92000003,Scotland,Male,30+,Part-time,6170
+202122,Academic year,National,S92000003,Scotland,Male,30+,Work-based learning,27425
+202122,Academic year,National,S92000003,Scotland,Male,Total,Full-time,15690
+202122,Academic year,National,S92000003,Scotland,Male,Total,Part-time,48475
+202122,Academic year,National,S92000003,Scotland,Male,Total,Work-based learning,63870
+202122,Academic year,National,S92000003,Scotland,Male,Unknown,Full-time,0
+202122,Academic year,National,S92000003,Scotland,Male,Unknown,Part-time,0
+202122,Academic year,National,S92000003,Scotland,Male,Unknown,Work-based learning,0
+202122,Academic year,National,S92000003,Scotland,Total,<16,Full-time,1270
+202122,Academic year,National,S92000003,Scotland,Total,<16,Part-time,46565
+202122,Academic year,National,S92000003,Scotland,Total,<16,Work-based learning,2415
+202122,Academic year,National,S92000003,Scotland,Total,16,Full-time,4370
+202122,Academic year,National,S92000003,Scotland,Total,16,Part-time,12510
+202122,Academic year,National,S92000003,Scotland,Total,16,Work-based learning,2780
+202122,Academic year,National,S92000003,Scotland,Total,17,Full-time,6100
+202122,Academic year,National,S92000003,Scotland,Total,17,Part-time,9650
+202122,Academic year,National,S92000003,Scotland,Total,17,Work-based learning,4820
+202122,Academic year,National,S92000003,Scotland,Total,18,Full-time,5335
+202122,Academic year,National,S92000003,Scotland,Total,18,Part-time,4840
+202122,Academic year,National,S92000003,Scotland,Total,18,Work-based learning,6025
+202122,Academic year,National,S92000003,Scotland,Total,19,Full-time,3125
+202122,Academic year,National,S92000003,Scotland,Total,19,Part-time,3405
+202122,Academic year,National,S92000003,Scotland,Total,19,Work-based learning,6185
+202122,Academic year,National,S92000003,Scotland,Total,20,Full-time,1955
+202122,Academic year,National,S92000003,Scotland,Total,20,Part-time,2380
+202122,Academic year,National,S92000003,Scotland,Total,20,Work-based learning,5115
+202122,Academic year,National,S92000003,Scotland,Total,21,Full-time,1355
+202122,Academic year,National,S92000003,Scotland,Total,21,Part-time,1835
+202122,Academic year,National,S92000003,Scotland,Total,21,Work-based learning,4415
+202122,Academic year,National,S92000003,Scotland,Total,22,Full-time,1040
+202122,Academic year,National,S92000003,Scotland,Total,22,Part-time,1500
+202122,Academic year,National,S92000003,Scotland,Total,22,Work-based learning,3865
+202122,Academic year,National,S92000003,Scotland,Total,23,Full-time,910
+202122,Academic year,National,S92000003,Scotland,Total,23,Part-time,1350
+202122,Academic year,National,S92000003,Scotland,Total,23,Work-based learning,3370
+202122,Academic year,National,S92000003,Scotland,Total,24,Full-time,840
+202122,Academic year,National,S92000003,Scotland,Total,24,Part-time,1270
+202122,Academic year,National,S92000003,Scotland,Total,24,Work-based learning,3255
+202122,Academic year,National,S92000003,Scotland,Total,25,Full-time,685
+202122,Academic year,National,S92000003,Scotland,Total,25,Part-time,1135
+202122,Academic year,National,S92000003,Scotland,Total,25,Work-based learning,2835
+202122,Academic year,National,S92000003,Scotland,Total,26,Full-time,645
+202122,Academic year,National,S92000003,Scotland,Total,26,Part-time,1180
+202122,Academic year,National,S92000003,Scotland,Total,26,Work-based learning,2950
+202122,Academic year,National,S92000003,Scotland,Total,27,Full-time,595
+202122,Academic year,National,S92000003,Scotland,Total,27,Part-time,1095
+202122,Academic year,National,S92000003,Scotland,Total,27,Work-based learning,2780
+202122,Academic year,National,S92000003,Scotland,Total,28,Full-time,590
+202122,Academic year,National,S92000003,Scotland,Total,28,Part-time,1085
+202122,Academic year,National,S92000003,Scotland,Total,28,Work-based learning,2740
+202122,Academic year,National,S92000003,Scotland,Total,29,Full-time,550
+202122,Academic year,National,S92000003,Scotland,Total,29,Part-time,1160
+202122,Academic year,National,S92000003,Scotland,Total,29,Work-based learning,2760
+202122,Academic year,National,S92000003,Scotland,Total,30+,Full-time,6035
+202122,Academic year,National,S92000003,Scotland,Total,30+,Part-time,20000
+202122,Academic year,National,S92000003,Scotland,Total,30+,Work-based learning,65755
+202122,Academic year,National,S92000003,Scotland,Total,Total,Full-time,35400
+202122,Academic year,National,S92000003,Scotland,Total,Total,Part-time,110960
+202122,Academic year,National,S92000003,Scotland,Total,Total,Work-based learning,122065
+202122,Academic year,National,S92000003,Scotland,Total,Unknown,Full-time,0
+202122,Academic year,National,S92000003,Scotland,Total,Unknown,Part-time,0
+202122,Academic year,National,S92000003,Scotland,Total,Unknown,Work-based learning,0
+202122,Academic year,National,W92000004,Wales,Female,<16,Full-time,25
+202122,Academic year,National,W92000004,Wales,Female,<16,Part-time,30
+202122,Academic year,National,W92000004,Wales,Female,<16,Work-based learning,10
+202122,Academic year,National,W92000004,Wales,Female,16,Full-time,7700
+202122,Academic year,National,W92000004,Wales,Female,16,Part-time,290
+202122,Academic year,National,W92000004,Wales,Female,16,Work-based learning,255
+202122,Academic year,National,W92000004,Wales,Female,17,Full-time,6370
+202122,Academic year,National,W92000004,Wales,Female,17,Part-time,235
+202122,Academic year,National,W92000004,Wales,Female,17,Work-based learning,255
+202122,Academic year,National,W92000004,Wales,Female,18,Full-time,2730
+202122,Academic year,National,W92000004,Wales,Female,18,Part-time,370
+202122,Academic year,National,W92000004,Wales,Female,18,Work-based learning,330
+202122,Academic year,National,W92000004,Wales,Female,19,Full-time,1190
+202122,Academic year,National,W92000004,Wales,Female,19,Part-time,390
+202122,Academic year,National,W92000004,Wales,Female,19,Work-based learning,340
+202122,Academic year,National,W92000004,Wales,Female,20,Full-time,575
+202122,Academic year,National,W92000004,Wales,Female,20,Part-time,495
+202122,Academic year,National,W92000004,Wales,Female,20,Work-based learning,285
+202122,Academic year,National,W92000004,Wales,Female,21,Full-time,390
+202122,Academic year,National,W92000004,Wales,Female,21,Part-time,560
+202122,Academic year,National,W92000004,Wales,Female,21,Work-based learning,315
+202122,Academic year,National,W92000004,Wales,Female,22,Full-time,300
+202122,Academic year,National,W92000004,Wales,Female,22,Part-time,605
+202122,Academic year,National,W92000004,Wales,Female,22,Work-based learning,295
+202122,Academic year,National,W92000004,Wales,Female,23,Full-time,245
+202122,Academic year,National,W92000004,Wales,Female,23,Part-time,765
+202122,Academic year,National,W92000004,Wales,Female,23,Work-based learning,290
+202122,Academic year,National,W92000004,Wales,Female,24,Full-time,195
+202122,Academic year,National,W92000004,Wales,Female,24,Part-time,830
+202122,Academic year,National,W92000004,Wales,Female,24,Work-based learning,270
+202122,Academic year,National,W92000004,Wales,Female,25,Full-time,180
+202122,Academic year,National,W92000004,Wales,Female,25,Part-time,835
+202122,Academic year,National,W92000004,Wales,Female,25,Work-based learning,260
+202122,Academic year,National,W92000004,Wales,Female,26,Full-time,175
+202122,Academic year,National,W92000004,Wales,Female,26,Part-time,785
+202122,Academic year,National,W92000004,Wales,Female,26,Work-based learning,200
+202122,Academic year,National,W92000004,Wales,Female,27,Full-time,170
+202122,Academic year,National,W92000004,Wales,Female,27,Part-time,800
+202122,Academic year,National,W92000004,Wales,Female,27,Work-based learning,220
+202122,Academic year,National,W92000004,Wales,Female,28,Full-time,150
+202122,Academic year,National,W92000004,Wales,Female,28,Part-time,855
+202122,Academic year,National,W92000004,Wales,Female,28,Work-based learning,210
+202122,Academic year,National,W92000004,Wales,Female,29,Full-time,150
+202122,Academic year,National,W92000004,Wales,Female,29,Part-time,895
+202122,Academic year,National,W92000004,Wales,Female,29,Work-based learning,215
+202122,Academic year,National,W92000004,Wales,Female,30+,Full-time,1860
+202122,Academic year,National,W92000004,Wales,Female,30+,Part-time,21805
+202122,Academic year,National,W92000004,Wales,Female,30+,Work-based learning,3635
+202122,Academic year,National,W92000004,Wales,Female,Total,Full-time,22405
+202122,Academic year,National,W92000004,Wales,Female,Total,Part-time,30565
+202122,Academic year,National,W92000004,Wales,Female,Total,Work-based learning,7385
+202122,Academic year,National,W92000004,Wales,Female,Unknown,Full-time,low
+202122,Academic year,National,W92000004,Wales,Female,Unknown,Part-time,10
+202122,Academic year,National,W92000004,Wales,Female,Unknown,Work-based learning,0
+202122,Academic year,National,W92000004,Wales,Male,<16,Full-time,50
+202122,Academic year,National,W92000004,Wales,Male,<16,Part-time,65
+202122,Academic year,National,W92000004,Wales,Male,<16,Work-based learning,15
+202122,Academic year,National,W92000004,Wales,Male,16,Full-time,8250
+202122,Academic year,National,W92000004,Wales,Male,16,Part-time,305
+202122,Academic year,National,W92000004,Wales,Male,16,Work-based learning,740
+202122,Academic year,National,W92000004,Wales,Male,17,Full-time,6725
+202122,Academic year,National,W92000004,Wales,Male,17,Part-time,270
+202122,Academic year,National,W92000004,Wales,Male,17,Work-based learning,1160
+202122,Academic year,National,W92000004,Wales,Male,18,Full-time,3040
+202122,Academic year,National,W92000004,Wales,Male,18,Part-time,390
+202122,Academic year,National,W92000004,Wales,Male,18,Work-based learning,1425
+202122,Academic year,National,W92000004,Wales,Male,19,Full-time,1490
+202122,Academic year,National,W92000004,Wales,Male,19,Part-time,375
+202122,Academic year,National,W92000004,Wales,Male,19,Work-based learning,1385
+202122,Academic year,National,W92000004,Wales,Male,20,Full-time,700
+202122,Academic year,National,W92000004,Wales,Male,20,Part-time,455
+202122,Academic year,National,W92000004,Wales,Male,20,Work-based learning,1185
+202122,Academic year,National,W92000004,Wales,Male,21,Full-time,450
+202122,Academic year,National,W92000004,Wales,Male,21,Part-time,540
+202122,Academic year,National,W92000004,Wales,Male,21,Work-based learning,900
+202122,Academic year,National,W92000004,Wales,Male,22,Full-time,295
+202122,Academic year,National,W92000004,Wales,Male,22,Part-time,550
+202122,Academic year,National,W92000004,Wales,Male,22,Work-based learning,715
+202122,Academic year,National,W92000004,Wales,Male,23,Full-time,185
+202122,Academic year,National,W92000004,Wales,Male,23,Part-time,670
+202122,Academic year,National,W92000004,Wales,Male,23,Work-based learning,525
+202122,Academic year,National,W92000004,Wales,Male,24,Full-time,140
+202122,Academic year,National,W92000004,Wales,Male,24,Part-time,710
+202122,Academic year,National,W92000004,Wales,Male,24,Work-based learning,415
+202122,Academic year,National,W92000004,Wales,Male,25,Full-time,120
+202122,Academic year,National,W92000004,Wales,Male,25,Part-time,720
+202122,Academic year,National,W92000004,Wales,Male,25,Work-based learning,345
+202122,Academic year,National,W92000004,Wales,Male,26,Full-time,100
+202122,Academic year,National,W92000004,Wales,Male,26,Part-time,755
+202122,Academic year,National,W92000004,Wales,Male,26,Work-based learning,270
+202122,Academic year,National,W92000004,Wales,Male,27,Full-time,80
+202122,Academic year,National,W92000004,Wales,Male,27,Part-time,760
+202122,Academic year,National,W92000004,Wales,Male,27,Work-based learning,245
+202122,Academic year,National,W92000004,Wales,Male,28,Full-time,75
+202122,Academic year,National,W92000004,Wales,Male,28,Part-time,740
+202122,Academic year,National,W92000004,Wales,Male,28,Work-based learning,225
+202122,Academic year,National,W92000004,Wales,Male,29,Full-time,65
+202122,Academic year,National,W92000004,Wales,Male,29,Part-time,765
+202122,Academic year,National,W92000004,Wales,Male,29,Work-based learning,185
+202122,Academic year,National,W92000004,Wales,Male,30+,Full-time,725
+202122,Academic year,National,W92000004,Wales,Male,30+,Part-time,15935
+202122,Academic year,National,W92000004,Wales,Male,30+,Work-based learning,2255
+202122,Academic year,National,W92000004,Wales,Male,Total,Full-time,22495
+202122,Academic year,National,W92000004,Wales,Male,Total,Part-time,24000
+202122,Academic year,National,W92000004,Wales,Male,Total,Work-based learning,11985
+202122,Academic year,National,W92000004,Wales,Male,Unknown,Full-time,0
+202122,Academic year,National,W92000004,Wales,Male,Unknown,Part-time,5
+202122,Academic year,National,W92000004,Wales,Male,Unknown,Work-based learning,0
+202122,Academic year,National,W92000004,Wales,Total,<16,Full-time,80
+202122,Academic year,National,W92000004,Wales,Total,<16,Part-time,100
+202122,Academic year,National,W92000004,Wales,Total,<16,Work-based learning,25
+202122,Academic year,National,W92000004,Wales,Total,16,Full-time,16115
+202122,Academic year,National,W92000004,Wales,Total,16,Part-time,595
+202122,Academic year,National,W92000004,Wales,Total,16,Work-based learning,995
+202122,Academic year,National,W92000004,Wales,Total,17,Full-time,13185
+202122,Academic year,National,W92000004,Wales,Total,17,Part-time,510
+202122,Academic year,National,W92000004,Wales,Total,17,Work-based learning,1415
+202122,Academic year,National,W92000004,Wales,Total,18,Full-time,5805
+202122,Academic year,National,W92000004,Wales,Total,18,Part-time,765
+202122,Academic year,National,W92000004,Wales,Total,18,Work-based learning,1750
+202122,Academic year,National,W92000004,Wales,Total,19,Full-time,2700
+202122,Academic year,National,W92000004,Wales,Total,19,Part-time,765
+202122,Academic year,National,W92000004,Wales,Total,19,Work-based learning,1720
+202122,Academic year,National,W92000004,Wales,Total,20,Full-time,1280
+202122,Academic year,National,W92000004,Wales,Total,20,Part-time,950
+202122,Academic year,National,W92000004,Wales,Total,20,Work-based learning,1475
+202122,Academic year,National,W92000004,Wales,Total,21,Full-time,845
+202122,Academic year,National,W92000004,Wales,Total,21,Part-time,1105
+202122,Academic year,National,W92000004,Wales,Total,21,Work-based learning,1215
+202122,Academic year,National,W92000004,Wales,Total,22,Full-time,595
+202122,Academic year,National,W92000004,Wales,Total,22,Part-time,1160
+202122,Academic year,National,W92000004,Wales,Total,22,Work-based learning,1015
+202122,Academic year,National,W92000004,Wales,Total,23,Full-time,430
+202122,Academic year,National,W92000004,Wales,Total,23,Part-time,1440
+202122,Academic year,National,W92000004,Wales,Total,23,Work-based learning,815
+202122,Academic year,National,W92000004,Wales,Total,24,Full-time,340
+202122,Academic year,National,W92000004,Wales,Total,24,Part-time,1545
+202122,Academic year,National,W92000004,Wales,Total,24,Work-based learning,685
+202122,Academic year,National,W92000004,Wales,Total,25,Full-time,305
+202122,Academic year,National,W92000004,Wales,Total,25,Part-time,1555
+202122,Academic year,National,W92000004,Wales,Total,25,Work-based learning,605
+202122,Academic year,National,W92000004,Wales,Total,26,Full-time,275
+202122,Academic year,National,W92000004,Wales,Total,26,Part-time,1550
+202122,Academic year,National,W92000004,Wales,Total,26,Work-based learning,470
+202122,Academic year,National,W92000004,Wales,Total,27,Full-time,250
+202122,Academic year,National,W92000004,Wales,Total,27,Part-time,1565
+202122,Academic year,National,W92000004,Wales,Total,27,Work-based learning,465
+202122,Academic year,National,W92000004,Wales,Total,28,Full-time,225
+202122,Academic year,National,W92000004,Wales,Total,28,Part-time,1600
+202122,Academic year,National,W92000004,Wales,Total,28,Work-based learning,430
+202122,Academic year,National,W92000004,Wales,Total,29,Full-time,220
+202122,Academic year,National,W92000004,Wales,Total,29,Part-time,1665
+202122,Academic year,National,W92000004,Wales,Total,29,Work-based learning,400
+202122,Academic year,National,W92000004,Wales,Total,30+,Full-time,2595
+202122,Academic year,National,W92000004,Wales,Total,30+,Part-time,37800
+202122,Academic year,National,W92000004,Wales,Total,30+,Work-based learning,5890
+202122,Academic year,National,W92000004,Wales,Total,Total,Full-time,45245
+202122,Academic year,National,W92000004,Wales,Total,Total,Part-time,54675
+202122,Academic year,National,W92000004,Wales,Total,Total,Work-based learning,19375
+202122,Academic year,National,W92000004,Wales,Total,Unknown,Full-time,low
+202122,Academic year,National,W92000004,Wales,Total,Unknown,Part-time,10
+202122,Academic year,National,W92000004,Wales,Total,Unknown,Work-based learning,0
+202122,Academic year,National,E92000001,England,Female,<16,Total,2725
+202122,Academic year,National,E92000001,England,Female,16,Total,168390
+202122,Academic year,National,E92000001,England,Female,17,Total,152530
+202122,Academic year,National,E92000001,England,Female,18,Total,72305
+202122,Academic year,National,E92000001,England,Female,19,Total,44435
+202122,Academic year,National,E92000001,England,Female,20,Total,34640
+202122,Academic year,National,E92000001,England,Female,21,Total,31390
+202122,Academic year,National,E92000001,England,Female,22,Total,31190
+202122,Academic year,National,E92000001,England,Female,23,Total,30635
+202122,Academic year,National,E92000001,England,Female,24,Total,29790
+202122,Academic year,National,E92000001,England,Female,25,Total,27560
+202122,Academic year,National,E92000001,England,Female,26,Total,27525
+202122,Academic year,National,E92000001,England,Female,27,Total,27755
+202122,Academic year,National,E92000001,England,Female,28,Total,27595
+202122,Academic year,National,E92000001,England,Female,29,Total,28875
+202122,Academic year,National,E92000001,England,Female,30+,Total,707175
+202122,Academic year,National,E92000001,England,Female,Total,Total,1444790
+202122,Academic year,National,E92000001,England,Female,Unknown,Total,270
+202122,Academic year,National,E92000001,England,Male,<16,Total,2620
+202122,Academic year,National,E92000001,England,Male,16,Total,182780
+202122,Academic year,National,E92000001,England,Male,17,Total,166365
+202122,Academic year,National,E92000001,England,Male,18,Total,92520
+202122,Academic year,National,E92000001,England,Male,19,Total,63040
+202122,Academic year,National,E92000001,England,Male,20,Total,49100
+202122,Academic year,National,E92000001,England,Male,21,Total,41680
+202122,Academic year,National,E92000001,England,Male,22,Total,35220
+202122,Academic year,National,E92000001,England,Male,23,Total,30135
+202122,Academic year,National,E92000001,England,Male,24,Total,26585
+202122,Academic year,National,E92000001,England,Male,25,Total,22625
+202122,Academic year,National,E92000001,England,Male,26,Total,20115
+202122,Academic year,National,E92000001,England,Male,27,Total,19250
+202122,Academic year,National,E92000001,England,Male,28,Total,18100
+202122,Academic year,National,E92000001,England,Male,29,Total,17915
+202122,Academic year,National,E92000001,England,Male,30+,Total,326920
+202122,Academic year,National,E92000001,England,Male,Total,Total,1115035
+202122,Academic year,National,E92000001,England,Male,Unknown,Total,70
+202122,Academic year,National,E92000001,England,Total,<16,Total,5345
+202122,Academic year,National,E92000001,England,Total,16,Total,351170
+202122,Academic year,National,E92000001,England,Total,17,Total,318895
+202122,Academic year,National,E92000001,England,Total,18,Total,164825
+202122,Academic year,National,E92000001,England,Total,19,Total,107475
+202122,Academic year,National,E92000001,England,Total,20,Total,83740
+202122,Academic year,National,E92000001,England,Total,21,Total,73070
+202122,Academic year,National,E92000001,England,Total,22,Total,66410
+202122,Academic year,National,E92000001,England,Total,23,Total,60765
+202122,Academic year,National,E92000001,England,Total,24,Total,56375
+202122,Academic year,National,E92000001,England,Total,25,Total,50185
+202122,Academic year,National,E92000001,England,Total,26,Total,47640
+202122,Academic year,National,E92000001,England,Total,27,Total,47005
+202122,Academic year,National,E92000001,England,Total,28,Total,45695
+202122,Academic year,National,E92000001,England,Total,29,Total,46790
+202122,Academic year,National,E92000001,England,Total,30+,Total,1034090
+202122,Academic year,National,E92000001,England,Total,Total,Total,2559825
+202122,Academic year,National,E92000001,England,Total,Unknown,Total,345
+202122,Academic year,National,N92000002,Northern Ireland,Female,<16,Total,955
+202122,Academic year,National,N92000002,Northern Ireland,Female,16,Total,2420
+202122,Academic year,National,N92000002,Northern Ireland,Female,17,Total,2245
+202122,Academic year,National,N92000002,Northern Ireland,Female,18,Total,1640
+202122,Academic year,National,N92000002,Northern Ireland,Female,19,Total,990
+202122,Academic year,National,N92000002,Northern Ireland,Female,20,Total,615
+202122,Academic year,National,N92000002,Northern Ireland,Female,21,Total,510
+202122,Academic year,National,N92000002,Northern Ireland,Female,22,Total,545
+202122,Academic year,National,N92000002,Northern Ireland,Female,23,Total,475
+202122,Academic year,National,N92000002,Northern Ireland,Female,24,Total,405
+202122,Academic year,National,N92000002,Northern Ireland,Female,25,Total,340
+202122,Academic year,National,N92000002,Northern Ireland,Female,26,Total,370
+202122,Academic year,National,N92000002,Northern Ireland,Female,27,Total,365
+202122,Academic year,National,N92000002,Northern Ireland,Female,28,Total,365
+202122,Academic year,National,N92000002,Northern Ireland,Female,29,Total,375
+202122,Academic year,National,N92000002,Northern Ireland,Female,30+,Total,7605
+202122,Academic year,National,N92000002,Northern Ireland,Female,Total,Total,20215
+202122,Academic year,National,N92000002,Northern Ireland,Female,Unknown,Total,5
+202122,Academic year,National,N92000002,Northern Ireland,Male,<16,Total,1765
+202122,Academic year,National,N92000002,Northern Ireland,Male,16,Total,3675
+202122,Academic year,National,N92000002,Northern Ireland,Male,17,Total,3595
+202122,Academic year,National,N92000002,Northern Ireland,Male,18,Total,2470
+202122,Academic year,National,N92000002,Northern Ireland,Male,19,Total,1760
+202122,Academic year,National,N92000002,Northern Ireland,Male,20,Total,1195
+202122,Academic year,National,N92000002,Northern Ireland,Male,21,Total,815
+202122,Academic year,National,N92000002,Northern Ireland,Male,22,Total,655
+202122,Academic year,National,N92000002,Northern Ireland,Male,23,Total,510
+202122,Academic year,National,N92000002,Northern Ireland,Male,24,Total,440
+202122,Academic year,National,N92000002,Northern Ireland,Male,25,Total,390
+202122,Academic year,National,N92000002,Northern Ireland,Male,26,Total,285
+202122,Academic year,National,N92000002,Northern Ireland,Male,27,Total,255
+202122,Academic year,National,N92000002,Northern Ireland,Male,28,Total,260
+202122,Academic year,National,N92000002,Northern Ireland,Male,29,Total,260
+202122,Academic year,National,N92000002,Northern Ireland,Male,30+,Total,4020
+202122,Academic year,National,N92000002,Northern Ireland,Male,Total,Total,22355
+202122,Academic year,National,N92000002,Northern Ireland,Male,Unknown,Total,0
+202122,Academic year,National,N92000002,Northern Ireland,Total,<16,Total,2725
+202122,Academic year,National,N92000002,Northern Ireland,Total,16,Total,6095
+202122,Academic year,National,N92000002,Northern Ireland,Total,17,Total,5840
+202122,Academic year,National,N92000002,Northern Ireland,Total,18,Total,4110
+202122,Academic year,National,N92000002,Northern Ireland,Total,19,Total,2750
+202122,Academic year,National,N92000002,Northern Ireland,Total,20,Total,1810
+202122,Academic year,National,N92000002,Northern Ireland,Total,21,Total,1325
+202122,Academic year,National,N92000002,Northern Ireland,Total,22,Total,1200
+202122,Academic year,National,N92000002,Northern Ireland,Total,23,Total,985
+202122,Academic year,National,N92000002,Northern Ireland,Total,24,Total,840
+202122,Academic year,National,N92000002,Northern Ireland,Total,25,Total,730
+202122,Academic year,National,N92000002,Northern Ireland,Total,26,Total,655
+202122,Academic year,National,N92000002,Northern Ireland,Total,27,Total,615
+202122,Academic year,National,N92000002,Northern Ireland,Total,28,Total,625
+202122,Academic year,National,N92000002,Northern Ireland,Total,29,Total,630
+202122,Academic year,National,N92000002,Northern Ireland,Total,30+,Total,11620
+202122,Academic year,National,N92000002,Northern Ireland,Total,Total,Total,42570
+202122,Academic year,National,N92000002,Northern Ireland,Total,Unknown,Total,5
+202122,Academic year,National,S92000003,Scotland,Female,<16,Total,24980
+202122,Academic year,National,S92000003,Scotland,Female,16,Total,9415
+202122,Academic year,National,S92000003,Scotland,Female,17,Total,9050
+202122,Academic year,National,S92000003,Scotland,Female,18,Total,6185
+202122,Academic year,National,S92000003,Scotland,Female,19,Total,4595
+202122,Academic year,National,S92000003,Scotland,Female,20,Total,3305
+202122,Academic year,National,S92000003,Scotland,Female,21,Total,2840
+202122,Academic year,National,S92000003,Scotland,Female,22,Total,2645
+202122,Academic year,National,S92000003,Scotland,Female,23,Total,2550
+202122,Academic year,National,S92000003,Scotland,Female,24,Total,2680
+202122,Academic year,National,S92000003,Scotland,Female,25,Total,2435
+202122,Academic year,National,S92000003,Scotland,Female,26,Total,2565
+202122,Academic year,National,S92000003,Scotland,Female,27,Total,2450
+202122,Academic year,National,S92000003,Scotland,Female,28,Total,2445
+202122,Academic year,National,S92000003,Scotland,Female,29,Total,2550
+202122,Academic year,National,S92000003,Scotland,Female,30+,Total,55400
+202122,Academic year,National,S92000003,Scotland,Female,Total,Total,136090
+202122,Academic year,National,S92000003,Scotland,Female,Unknown,Total,0
+202122,Academic year,National,S92000003,Scotland,Male,<16,Total,23980
+202122,Academic year,National,S92000003,Scotland,Male,16,Total,9880
+202122,Academic year,National,S92000003,Scotland,Male,17,Total,11195
+202122,Academic year,National,S92000003,Scotland,Male,18,Total,9810
+202122,Academic year,National,S92000003,Scotland,Male,19,Total,7980
+202122,Academic year,National,S92000003,Scotland,Male,20,Total,6045
+202122,Academic year,National,S92000003,Scotland,Male,21,Total,4680
+202122,Academic year,National,S92000003,Scotland,Male,22,Total,3685
+202122,Academic year,National,S92000003,Scotland,Male,23,Total,3005
+202122,Academic year,National,S92000003,Scotland,Male,24,Total,2620
+202122,Academic year,National,S92000003,Scotland,Male,25,Total,2165
+202122,Academic year,National,S92000003,Scotland,Male,26,Total,2160
+202122,Academic year,National,S92000003,Scotland,Male,27,Total,1925
+202122,Academic year,National,S92000003,Scotland,Male,28,Total,1905
+202122,Academic year,National,S92000003,Scotland,Male,29,Total,1850
+202122,Academic year,National,S92000003,Scotland,Male,30+,Total,35160
+202122,Academic year,National,S92000003,Scotland,Male,Total,Total,128040
+202122,Academic year,National,S92000003,Scotland,Male,Unknown,Total,0
+202122,Academic year,National,S92000003,Scotland,Total,<16,Total,50250
+202122,Academic year,National,S92000003,Scotland,Total,16,Total,19655
+202122,Academic year,National,S92000003,Scotland,Total,17,Total,20570
+202122,Academic year,National,S92000003,Scotland,Total,18,Total,16200
+202122,Academic year,National,S92000003,Scotland,Total,19,Total,12710
+202122,Academic year,National,S92000003,Scotland,Total,20,Total,9450
+202122,Academic year,National,S92000003,Scotland,Total,21,Total,7600
+202122,Academic year,National,S92000003,Scotland,Total,22,Total,6410
+202122,Academic year,National,S92000003,Scotland,Total,23,Total,5630
+202122,Academic year,National,S92000003,Scotland,Total,24,Total,5365
+202122,Academic year,National,S92000003,Scotland,Total,25,Total,4655
+202122,Academic year,National,S92000003,Scotland,Total,26,Total,4775
+202122,Academic year,National,S92000003,Scotland,Total,27,Total,4465
+202122,Academic year,National,S92000003,Scotland,Total,28,Total,4420
+202122,Academic year,National,S92000003,Scotland,Total,29,Total,4470
+202122,Academic year,National,S92000003,Scotland,Total,30+,Total,91795
+202122,Academic year,National,S92000003,Scotland,Total,Total,Total,268425
+202122,Academic year,National,S92000003,Scotland,Total,Unknown,Total,0
+202122,Academic year,National,W92000004,Wales,Female,<16,Total,70
+202122,Academic year,National,W92000004,Wales,Female,16,Total,8240
+202122,Academic year,National,W92000004,Wales,Female,17,Total,6860
+202122,Academic year,National,W92000004,Wales,Female,18,Total,3430
+202122,Academic year,National,W92000004,Wales,Female,19,Total,1915
+202122,Academic year,National,W92000004,Wales,Female,20,Total,1360
+202122,Academic year,National,W92000004,Wales,Female,21,Total,1265
+202122,Academic year,National,W92000004,Wales,Female,22,Total,1200
+202122,Academic year,National,W92000004,Wales,Female,23,Total,1300
+202122,Academic year,National,W92000004,Wales,Female,24,Total,1295
+202122,Academic year,National,W92000004,Wales,Female,25,Total,1275
+202122,Academic year,National,W92000004,Wales,Female,26,Total,1160
+202122,Academic year,National,W92000004,Wales,Female,27,Total,1190
+202122,Academic year,National,W92000004,Wales,Female,28,Total,1215
+202122,Academic year,National,W92000004,Wales,Female,29,Total,1265
+202122,Academic year,National,W92000004,Wales,Female,30+,Total,27305
+202122,Academic year,National,W92000004,Wales,Female,Total,Total,60355
+202122,Academic year,National,W92000004,Wales,Female,Unknown,Total,10
+202122,Academic year,National,W92000004,Wales,Male,<16,Total,135
+202122,Academic year,National,W92000004,Wales,Male,16,Total,9295
+202122,Academic year,National,W92000004,Wales,Male,17,Total,8155
+202122,Academic year,National,W92000004,Wales,Male,18,Total,4850
+202122,Academic year,National,W92000004,Wales,Male,19,Total,3250
+202122,Academic year,National,W92000004,Wales,Male,20,Total,2340
+202122,Academic year,National,W92000004,Wales,Male,21,Total,1890
+202122,Academic year,National,W92000004,Wales,Male,22,Total,1560
+202122,Academic year,National,W92000004,Wales,Male,23,Total,1375
+202122,Academic year,National,W92000004,Wales,Male,24,Total,1270
+202122,Academic year,National,W92000004,Wales,Male,25,Total,1185
+202122,Academic year,National,W92000004,Wales,Male,26,Total,1120
+202122,Academic year,National,W92000004,Wales,Male,27,Total,1085
+202122,Academic year,National,W92000004,Wales,Male,28,Total,1040
+202122,Academic year,National,W92000004,Wales,Male,29,Total,1015
+202122,Academic year,National,W92000004,Wales,Male,30+,Total,18915
+202122,Academic year,National,W92000004,Wales,Male,Total,Total,58475
+202122,Academic year,National,W92000004,Wales,Male,Unknown,Total,5
+202122,Academic year,National,W92000004,Wales,Total,<16,Total,205
+202122,Academic year,National,W92000004,Wales,Total,16,Total,17705
+202122,Academic year,National,W92000004,Wales,Total,17,Total,15110
+202122,Academic year,National,W92000004,Wales,Total,18,Total,8320
+202122,Academic year,National,W92000004,Wales,Total,19,Total,5185
+202122,Academic year,National,W92000004,Wales,Total,20,Total,3705
+202122,Academic year,National,W92000004,Wales,Total,21,Total,3165
+202122,Academic year,National,W92000004,Wales,Total,22,Total,2770
+202122,Academic year,National,W92000004,Wales,Total,23,Total,2685
+202122,Academic year,National,W92000004,Wales,Total,24,Total,2570
+202122,Academic year,National,W92000004,Wales,Total,25,Total,2465
+202122,Academic year,National,W92000004,Wales,Total,26,Total,2295
+202122,Academic year,National,W92000004,Wales,Total,27,Total,2280
+202122,Academic year,National,W92000004,Wales,Total,28,Total,2260
+202122,Academic year,National,W92000004,Wales,Total,29,Total,2285
+202122,Academic year,National,W92000004,Wales,Total,30+,Total,46280
+202122,Academic year,National,W92000004,Wales,Total,Total,Total,119300
+202122,Academic year,National,W92000004,Wales,Total,Unknown,Total,15
+202122,Academic year,National,K02000001,United Kingdom,Female,<16,Total,28730
+202122,Academic year,National,K02000001,United Kingdom,Female,16,Total,188470
+202122,Academic year,National,K02000001,United Kingdom,Female,17,Total,170685
+202122,Academic year,National,K02000001,United Kingdom,Female,18,Total,83560
+202122,Academic year,National,K02000001,United Kingdom,Female,19,Total,51940
+202122,Academic year,National,K02000001,United Kingdom,Female,20,Total,39915
+202122,Academic year,National,K02000001,United Kingdom,Female,21,Total,36005
+202122,Academic year,National,K02000001,United Kingdom,Female,22,Total,35580
+202122,Academic year,National,K02000001,United Kingdom,Female,23,Total,34960
+202122,Academic year,National,K02000001,United Kingdom,Female,24,Total,34170
+202122,Academic year,National,K02000001,United Kingdom,Female,25,Total,31610
+202122,Academic year,National,K02000001,United Kingdom,Female,26,Total,31620
+202122,Academic year,National,K02000001,United Kingdom,Female,27,Total,31760
+202122,Academic year,National,K02000001,United Kingdom,Female,28,Total,31615
+202122,Academic year,National,K02000001,United Kingdom,Female,29,Total,33060
+202122,Academic year,National,K02000001,United Kingdom,Female,30+,Total,797480
+202122,Academic year,National,K02000001,United Kingdom,Female,Total,Total,1661450
+202122,Academic year,National,K02000001,United Kingdom,Female,Unknown,Total,285
+202122,Academic year,National,K02000001,United Kingdom,Male,<16,Total,28505
+202122,Academic year,National,K02000001,United Kingdom,Male,16,Total,205625
+202122,Academic year,National,K02000001,United Kingdom,Male,17,Total,189310
+202122,Academic year,National,K02000001,United Kingdom,Male,18,Total,109650
+202122,Academic year,National,K02000001,United Kingdom,Male,19,Total,76030
+202122,Academic year,National,K02000001,United Kingdom,Male,20,Total,58685
+202122,Academic year,National,K02000001,United Kingdom,Male,21,Total,49065
+202122,Academic year,National,K02000001,United Kingdom,Male,22,Total,41120
+202122,Academic year,National,K02000001,United Kingdom,Male,23,Total,35025
+202122,Academic year,National,K02000001,United Kingdom,Male,24,Total,30915
+202122,Academic year,National,K02000001,United Kingdom,Male,25,Total,26365
+202122,Academic year,National,K02000001,United Kingdom,Male,26,Total,23680
+202122,Academic year,National,K02000001,United Kingdom,Male,27,Total,22515
+202122,Academic year,National,K02000001,United Kingdom,Male,28,Total,21305
+202122,Academic year,National,K02000001,United Kingdom,Male,29,Total,21035
+202122,Academic year,National,K02000001,United Kingdom,Male,30+,Total,385010
+202122,Academic year,National,K02000001,United Kingdom,Male,Total,Total,1323905
+202122,Academic year,National,K02000001,United Kingdom,Male,Unknown,Total,75
+202122,Academic year,National,K02000001,United Kingdom,Total,<16,Total,58525
+202122,Academic year,National,K02000001,United Kingdom,Total,16,Total,394630
+202122,Academic year,National,K02000001,United Kingdom,Total,17,Total,360415
+202122,Academic year,National,K02000001,United Kingdom,Total,18,Total,193460
+202122,Academic year,National,K02000001,United Kingdom,Total,19,Total,128125
+202122,Academic year,National,K02000001,United Kingdom,Total,20,Total,98710
+202122,Academic year,National,K02000001,United Kingdom,Total,21,Total,85160
+202122,Academic year,National,K02000001,United Kingdom,Total,22,Total,76785
+202122,Academic year,National,K02000001,United Kingdom,Total,23,Total,70065
+202122,Academic year,National,K02000001,United Kingdom,Total,24,Total,65155
+202122,Academic year,National,K02000001,United Kingdom,Total,25,Total,58035
+202122,Academic year,National,K02000001,United Kingdom,Total,26,Total,55360
+202122,Academic year,National,K02000001,United Kingdom,Total,27,Total,54370
+202122,Academic year,National,K02000001,United Kingdom,Total,28,Total,52995
+202122,Academic year,National,K02000001,United Kingdom,Total,29,Total,54175
+202122,Academic year,National,K02000001,United Kingdom,Total,30+,Total,1183785
+202122,Academic year,National,K02000001,United Kingdom,Total,Total,Total,2990120
+202122,Academic year,National,K02000001,United Kingdom,Total,Unknown,Total,360
+202021,Academic year,National,E92000001,England,Female,Total,Total,1393660
+202021,Academic year,National,E92000001,England,Male,Total,Total,1086905
+202021,Academic year,National,E92000001,England,Total,Total,Total,2480570
+202021,Academic year,National,N92000002,Northern Ireland,Female,Total,Total,19650
+202021,Academic year,National,N92000002,Northern Ireland,Male,Total,Total,21755
+202021,Academic year,National,N92000002,Northern Ireland,Total,Total,Total,41400
+201920,Academic year,National,E92000001,England,Female,Total,Total,1452895
+201920,Academic year,National,E92000001,England,Male,Total,Total,1126975
+201920,Academic year,National,E92000001,England,Total,Total,Total,2579870
+201920,Academic year,National,N92000002,Northern Ireland,Female,Total,Total,22645
+201920,Academic year,National,N92000002,Northern Ireland,Male,Total,Total,24845
+201920,Academic year,National,N92000002,Northern Ireland,Total,Total,Total,47490
+201819,Academic year,National,E92000001,England,Female,Total,Total,1625120
+201819,Academic year,National,N92000002,Northern Ireland,Female,Total,Total,24250
+201819,Academic year,National,S92000003,Scotland,Female,Total,Total,136580
+201819,Academic year,National,E92000001,England,Male,Total,Total,1304495
+201819,Academic year,National,N92000002,Northern Ireland,Male,Total,Total,26945
+201819,Academic year,National,S92000003,Scotland,Male,Total,Total,134470
+201819,Academic year,National,E92000001,England,Total,Total,Total,2929620
+201819,Academic year,National,N92000002,Northern Ireland,Total,Total,Total,51190
+201819,Academic year,National,S92000003,Scotland,Total,Total,Total,272325
+201516,Academic year,National,E92000001,England,Total,Total,Total,3281670
+201516,Academic year,National,W92000004,Wales,Total,Total,Total,145855
+201516,Academic year,National,S92000003,Scotland,Total,Total,Total,221780
+201516,Academic year,National,E92000001,England,Male,Total,Total,1486955
+201516,Academic year,National,W92000004,Wales,Male,Total,Total,66570
+201516,Academic year,National,S92000003,Scotland,Male,Total,Total,109050
+201516,Academic year,National,E92000001,England,Female,Total,Total,1794705
+201516,Academic year,National,W92000004,Wales,Female,Total,Total,79290
+201516,Academic year,National,S92000003,Scotland,Female,Total,Total,112665
+201516,Academic year,National,N92000002,Northern Ireland,Male,Total,Total,29610
+201516,Academic year,National,N92000002,Northern Ireland,Female,Total,Total,29615
+201516,Academic year,National,N92000002,Northern Ireland,Total,Total,Total,59225
+201617,Academic year,National,E92000001,England,Total,Total,Total,3157830
+201617,Academic year,National,W92000004,Wales,Total,Total,Total,136240
+201617,Academic year,National,S92000003,Scotland,Total,Total,Total,233145
+201617,Academic year,National,E92000001,England,Male,Total,Total,1433605
+201617,Academic year,National,W92000004,Wales,Male,Total,Total,64635
+201617,Academic year,National,S92000003,Scotland,Male,Total,Total,117955
+201617,Academic year,National,E92000001,England,Female,Total,Total,1724220
+201617,Academic year,National,W92000004,Wales,Female,Total,Total,71595
+201617,Academic year,National,S92000003,Scotland,Female,Total,Total,114940
+201617,Academic year,National,N92000002,Northern Ireland,Male,Total,Total,28880
+201617,Academic year,National,N92000002,Northern Ireland,Female,Total,Total,27760
+201617,Academic year,National,N92000002,Northern Ireland,Total,Total,Total,56640
+201718,Academic year,National,E92000001,England,Total,Total,Total,3067510
+201718,Academic year,National,W92000004,Wales,Total,Total,Total,118325
+201718,Academic year,National,S92000003,Scotland,Total,Total,Total,246765
+201718,Academic year,National,E92000001,England,Male,Total,Total,1386765
+201718,Academic year,National,W92000004,Wales,Male,Total,Total,56555
+201718,Academic year,National,S92000003,Scotland,Male,Total,Total,120340
+201718,Academic year,National,E92000001,England,Female,Total,Total,1680740
+201718,Academic year,National,W92000004,Wales,Female,Total,Total,61725
+201718,Academic year,National,S92000003,Scotland,Female,Total,Total,125745
+201718,Academic year,National,N92000002,Northern Ireland,Male,Total,Total,27190
+201718,Academic year,National,N92000002,Northern Ireland,Female,Total,Total,26325
+201718,Academic year,National,N92000002,Northern Ireland,Total,Total,Total,53515
+201516,Academic year,National,K02000001,United Kingdom,Female,Total,Total,2016275
+201617,Academic year,National,K02000001,United Kingdom,Female,Total,Total,1938515
+201718,Academic year,National,K02000001,United Kingdom,Female,Total,Total,1894535
+201516,Academic year,National,K02000001,United Kingdom,Male,Total,Total,1692185
+201617,Academic year,National,K02000001,United Kingdom,Male,Total,Total,1645075
+201718,Academic year,National,K02000001,United Kingdom,Male,Total,Total,1590845
+201516,Academic year,National,K02000001,United Kingdom,Total,Total,Total,3708530
+201617,Academic year,National,K02000001,United Kingdom,Total,Total,Total,3583855
+201718,Academic year,National,K02000001,United Kingdom,Total,Total,Total,3486115
+201920,Academic year,National,S92000003,Scotland,Female,Total,Total,128025
+201920,Academic year,National,S92000003,Scotland,Male,Total,Total,119755
+201920,Academic year,National,S92000003,Scotland,Total,Total,Total,249075
+202021,Academic year,National,S92000003,Scotland,Female,Total,Total,112400
+202021,Academic year,National,S92000003,Scotland,Male,Total,Total,108555
+202021,Academic year,National,S92000003,Scotland,Total,Total,Total,222860
+201819,Academic year,National,W92000004,Wales,Female,Total,Total,63665
+201819,Academic year,National,W92000004,Wales,Male,Total,Total,58075
+201819,Academic year,National,W92000004,Wales,Total,Total,Total,121825
+201920,Academic year,National,W92000004,Wales,Female,Total,Total,59000
+201920,Academic year,National,W92000004,Wales,Male,Total,Total,52955
+201920,Academic year,National,W92000004,Wales,Total,Total,Total,112095
+202021,Academic year,National,W92000004,Wales,Female,Total,Total,56470
+202021,Academic year,National,W92000004,Wales,Male,Total,Total,51755
+202021,Academic year,National,W92000004,Wales,Total,Total,Total,108520
+201819,Academic year,National,K02000001,United Kingdom,Female,Total,Total,1849615
+201819,Academic year,National,K02000001,United Kingdom,Male,Total,Total,1523985
+201819,Academic year,National,K02000001,United Kingdom,Total,Total,Total,3374960
+201920,Academic year,National,K02000001,United Kingdom,Female,Total,Total,1662565
+201920,Academic year,National,K02000001,United Kingdom,Male,Total,Total,1324535
+201920,Academic year,National,K02000001,United Kingdom,Total,Total,Total,2988530
+202021,Academic year,National,K02000001,United Kingdom,Female,Total,Total,1582180
+202021,Academic year,National,K02000001,United Kingdom,Male,Total,Total,1268970
+202021,Academic year,National,K02000001,United Kingdom,Total,Total,Total,2853350
+202122,Academic year,National,E92000001,England,Female,<16,Full-time,x
+202122,Academic year,National,E92000001,England,Female,16,Full-time,x
+202122,Academic year,National,E92000001,England,Female,17,Full-time,x
+202122,Academic year,National,E92000001,England,Female,18,Full-time,x
+202122,Academic year,National,E92000001,England,Female,19,Full-time,x
+202122,Academic year,National,E92000001,England,Female,20,Full-time,x
+202122,Academic year,National,E92000001,England,Female,21,Full-time,x
+202122,Academic year,National,E92000001,England,Female,22,Full-time,x
+202122,Academic year,National,E92000001,England,Female,23,Full-time,x
+202122,Academic year,National,E92000001,England,Female,24,Full-time,x
+202122,Academic year,National,E92000001,England,Female,25,Full-time,x
+202122,Academic year,National,E92000001,England,Female,26,Full-time,x
+202122,Academic year,National,E92000001,England,Female,27,Full-time,x
+202122,Academic year,National,E92000001,England,Female,28,Full-time,x
+202122,Academic year,National,E92000001,England,Female,29,Full-time,x
+202122,Academic year,National,E92000001,England,Female,30+,Full-time,x
+202122,Academic year,National,E92000001,England,Female,Total,Full-time,x
+202122,Academic year,National,E92000001,England,Female,Unknown,Full-time,x
+202122,Academic year,National,E92000001,England,Male,<16,Full-time,x
+202122,Academic year,National,E92000001,England,Male,16,Full-time,x
+202122,Academic year,National,E92000001,England,Male,17,Full-time,x
+202122,Academic year,National,E92000001,England,Male,18,Full-time,x
+202122,Academic year,National,E92000001,England,Male,19,Full-time,x
+202122,Academic year,National,E92000001,England,Male,20,Full-time,x
+202122,Academic year,National,E92000001,England,Male,21,Full-time,x
+202122,Academic year,National,E92000001,England,Male,22,Full-time,x
+202122,Academic year,National,E92000001,England,Male,23,Full-time,x
+202122,Academic year,National,E92000001,England,Male,24,Full-time,x
+202122,Academic year,National,E92000001,England,Male,25,Full-time,x
+202122,Academic year,National,E92000001,England,Male,26,Full-time,x
+202122,Academic year,National,E92000001,England,Male,27,Full-time,x
+202122,Academic year,National,E92000001,England,Male,28,Full-time,x
+202122,Academic year,National,E92000001,England,Male,29,Full-time,x
+202122,Academic year,National,E92000001,England,Male,30+,Full-time,x
+202122,Academic year,National,E92000001,England,Male,Total,Full-time,x
+202122,Academic year,National,E92000001,England,Male,Unknown,Full-time,x
+202122,Academic year,National,E92000001,England,Total,<16,Full-time,x
+202122,Academic year,National,E92000001,England,Total,16,Full-time,x
+202122,Academic year,National,E92000001,England,Total,17,Full-time,x
+202122,Academic year,National,E92000001,England,Total,18,Full-time,x
+202122,Academic year,National,E92000001,England,Total,19,Full-time,x
+202122,Academic year,National,E92000001,England,Total,20,Full-time,x
+202122,Academic year,National,E92000001,England,Total,21,Full-time,x
+202122,Academic year,National,E92000001,England,Total,22,Full-time,x
+202122,Academic year,National,E92000001,England,Total,23,Full-time,x
+202122,Academic year,National,E92000001,England,Total,24,Full-time,x
+202122,Academic year,National,E92000001,England,Total,25,Full-time,x
+202122,Academic year,National,E92000001,England,Total,26,Full-time,x
+202122,Academic year,National,E92000001,England,Total,27,Full-time,x
+202122,Academic year,National,E92000001,England,Total,28,Full-time,x
+202122,Academic year,National,E92000001,England,Total,29,Full-time,x
+202122,Academic year,National,E92000001,England,Total,30+,Full-time,x
+202122,Academic year,National,E92000001,England,Total,Total,Full-time,x
+202122,Academic year,National,E92000001,England,Total,Unknown,Full-time,x
+202122,Academic year,National,E92000001,England,Female,<16,Part-time,x
+202122,Academic year,National,E92000001,England,Female,16,Part-time,x
+202122,Academic year,National,E92000001,England,Female,17,Part-time,x
+202122,Academic year,National,E92000001,England,Female,18,Part-time,x
+202122,Academic year,National,E92000001,England,Female,19,Part-time,x
+202122,Academic year,National,E92000001,England,Female,20,Part-time,x
+202122,Academic year,National,E92000001,England,Female,21,Part-time,x
+202122,Academic year,National,E92000001,England,Female,22,Part-time,x
+202122,Academic year,National,E92000001,England,Female,23,Part-time,x
+202122,Academic year,National,E92000001,England,Female,24,Part-time,x
+202122,Academic year,National,E92000001,England,Female,25,Part-time,x
+202122,Academic year,National,E92000001,England,Female,26,Part-time,x
+202122,Academic year,National,E92000001,England,Female,27,Part-time,x
+202122,Academic year,National,E92000001,England,Female,28,Part-time,x
+202122,Academic year,National,E92000001,England,Female,29,Part-time,x
+202122,Academic year,National,E92000001,England,Female,30+,Part-time,x
+202122,Academic year,National,E92000001,England,Female,Total,Part-time,x
+202122,Academic year,National,E92000001,England,Female,Unknown,Part-time,x
+202122,Academic year,National,E92000001,England,Male,<16,Part-time,x
+202122,Academic year,National,E92000001,England,Male,16,Part-time,x
+202122,Academic year,National,E92000001,England,Male,17,Part-time,x
+202122,Academic year,National,E92000001,England,Male,18,Part-time,x
+202122,Academic year,National,E92000001,England,Male,19,Part-time,x
+202122,Academic year,National,E92000001,England,Male,20,Part-time,x
+202122,Academic year,National,E92000001,England,Male,21,Part-time,x
+202122,Academic year,National,E92000001,England,Male,22,Part-time,x
+202122,Academic year,National,E92000001,England,Male,23,Part-time,x
+202122,Academic year,National,E92000001,England,Male,24,Part-time,x
+202122,Academic year,National,E92000001,England,Male,25,Part-time,x
+202122,Academic year,National,E92000001,England,Male,26,Part-time,x
+202122,Academic year,National,E92000001,England,Male,27,Part-time,x
+202122,Academic year,National,E92000001,England,Male,28,Part-time,x
+202122,Academic year,National,E92000001,England,Male,29,Part-time,x
+202122,Academic year,National,E92000001,England,Male,30+,Part-time,x
+202122,Academic year,National,E92000001,England,Male,Total,Part-time,x
+202122,Academic year,National,E92000001,England,Male,Unknown,Part-time,x
+202122,Academic year,National,E92000001,England,Total,<16,Part-time,x
+202122,Academic year,National,E92000001,England,Total,16,Part-time,x
+202122,Academic year,National,E92000001,England,Total,17,Part-time,x
+202122,Academic year,National,E92000001,England,Total,18,Part-time,x
+202122,Academic year,National,E92000001,England,Total,19,Part-time,x
+202122,Academic year,National,E92000001,England,Total,20,Part-time,x
+202122,Academic year,National,E92000001,England,Total,21,Part-time,x
+202122,Academic year,National,E92000001,England,Total,22,Part-time,x
+202122,Academic year,National,E92000001,England,Total,23,Part-time,x
+202122,Academic year,National,E92000001,England,Total,24,Part-time,x
+202122,Academic year,National,E92000001,England,Total,25,Part-time,x
+202122,Academic year,National,E92000001,England,Total,26,Part-time,x
+202122,Academic year,National,E92000001,England,Total,27,Part-time,x
+202122,Academic year,National,E92000001,England,Total,28,Part-time,x
+202122,Academic year,National,E92000001,England,Total,29,Part-time,x
+202122,Academic year,National,E92000001,England,Total,30+,Part-time,x
+202122,Academic year,National,E92000001,England,Total,Total,Part-time,x
+202122,Academic year,National,E92000001,England,Total,Unknown,Part-time,x
+202122,Academic year,National,E92000001,England,Female,<16,Work-based learning,x
+202122,Academic year,National,E92000001,England,Female,16,Work-based learning,x
+202122,Academic year,National,E92000001,England,Female,17,Work-based learning,x
+202122,Academic year,National,E92000001,England,Female,18,Work-based learning,x
+202122,Academic year,National,E92000001,England,Female,19,Work-based learning,x
+202122,Academic year,National,E92000001,England,Female,20,Work-based learning,x
+202122,Academic year,National,E92000001,England,Female,21,Work-based learning,x
+202122,Academic year,National,E92000001,England,Female,22,Work-based learning,x
+202122,Academic year,National,E92000001,England,Female,23,Work-based learning,x
+202122,Academic year,National,E92000001,England,Female,24,Work-based learning,x
+202122,Academic year,National,E92000001,England,Female,25,Work-based learning,x
+202122,Academic year,National,E92000001,England,Female,26,Work-based learning,x
+202122,Academic year,National,E92000001,England,Female,27,Work-based learning,x
+202122,Academic year,National,E92000001,England,Female,28,Work-based learning,x
+202122,Academic year,National,E92000001,England,Female,29,Work-based learning,x
+202122,Academic year,National,E92000001,England,Female,30+,Work-based learning,x
+202122,Academic year,National,E92000001,England,Female,Total,Work-based learning,x
+202122,Academic year,National,E92000001,England,Female,Unknown,Work-based learning,x
+202122,Academic year,National,E92000001,England,Male,<16,Work-based learning,x
+202122,Academic year,National,E92000001,England,Male,16,Work-based learning,x
+202122,Academic year,National,E92000001,England,Male,17,Work-based learning,x
+202122,Academic year,National,E92000001,England,Male,18,Work-based learning,x
+202122,Academic year,National,E92000001,England,Male,19,Work-based learning,x
+202122,Academic year,National,E92000001,England,Male,20,Work-based learning,x
+202122,Academic year,National,E92000001,England,Male,21,Work-based learning,x
+202122,Academic year,National,E92000001,England,Male,22,Work-based learning,x
+202122,Academic year,National,E92000001,England,Male,23,Work-based learning,x
+202122,Academic year,National,E92000001,England,Male,24,Work-based learning,x
+202122,Academic year,National,E92000001,England,Male,25,Work-based learning,x
+202122,Academic year,National,E92000001,England,Male,26,Work-based learning,x
+202122,Academic year,National,E92000001,England,Male,27,Work-based learning,x
+202122,Academic year,National,E92000001,England,Male,28,Work-based learning,x
+202122,Academic year,National,E92000001,England,Male,29,Work-based learning,x
+202122,Academic year,National,E92000001,England,Male,30+,Work-based learning,x
+202122,Academic year,National,E92000001,England,Male,Total,Work-based learning,x
+202122,Academic year,National,E92000001,England,Male,Unknown,Work-based learning,x
+202122,Academic year,National,E92000001,England,Total,<16,Work-based learning,x
+202122,Academic year,National,E92000001,England,Total,16,Work-based learning,x
+202122,Academic year,National,E92000001,England,Total,17,Work-based learning,x
+202122,Academic year,National,E92000001,England,Total,18,Work-based learning,x
+202122,Academic year,National,E92000001,England,Total,19,Work-based learning,x
+202122,Academic year,National,E92000001,England,Total,20,Work-based learning,x
+202122,Academic year,National,E92000001,England,Total,21,Work-based learning,x
+202122,Academic year,National,E92000001,England,Total,22,Work-based learning,x
+202122,Academic year,National,E92000001,England,Total,23,Work-based learning,x
+202122,Academic year,National,E92000001,England,Total,24,Work-based learning,x
+202122,Academic year,National,E92000001,England,Total,25,Work-based learning,x
+202122,Academic year,National,E92000001,England,Total,26,Work-based learning,x
+202122,Academic year,National,E92000001,England,Total,27,Work-based learning,x
+202122,Academic year,National,E92000001,England,Total,28,Work-based learning,x
+202122,Academic year,National,E92000001,England,Total,29,Work-based learning,x
+202122,Academic year,National,E92000001,England,Total,30+,Work-based learning,x
+202122,Academic year,National,E92000001,England,Total,Total,Work-based learning,x
+202122,Academic year,National,E92000001,England,Total,Unknown,Work-based learning,x
